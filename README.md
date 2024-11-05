@@ -1,4 +1,4 @@
-# Here is my first project on GitHub :)
+# Here is my first project on GitHub 
 # Project Title: 
 # Marketing Campaign Performance and Audience Insights Dashboard
 
