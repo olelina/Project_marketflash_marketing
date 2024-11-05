@@ -1,5 +1,6 @@
-# Here is my first project on GitHub 
-# Project Title: Marketing Campaign Performance and Audience Insights Dashboard
+# Here is my first project on GitHub :)
+# Project Title: 
+# Marketing Campaign Performance and Audience Insights Dashboard
 
 ## Project Overview:
 This project aims to empower the marketing executive team with valuable insights by creating a comprehensive data visualization solution that reveals the effectiveness of social media and email marketing campaigns. The initiative includes designing a database schema and Tableau dashboard that provide a dynamic view of marketing performance, audience demographics, and regional trends.
@@ -16,6 +17,6 @@ By leveraging data on demographics, behaviors, and preferences, the tool will al
 To aid in market segmentation and localized strategies, the dashboard will highlight trends by region, enabling the team to tailor campaigns according to regional preferences and emerging trends in different markets.
 
 
-# Here is a Relationship Diagram (ERD) of a database created in Lucidchart
+## Here is a Relationship Diagram (ERD) of a database created in Lucidchart
 
 https://lucid.app/lucidchart/91535b02-2e22-444d-9ab3-304f09a3cb95/edit?viewport_loc=-485%2C-265%2C1792%2C958%2C0_0&invitationId=inv_b6cfe153-ded7-4844-b30c-26f0998a2ddf
