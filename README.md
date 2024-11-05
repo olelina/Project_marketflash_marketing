@@ -6,13 +6,13 @@ This project aims to empower the marketing executive team with valuable insights
 
 Objectives:
 
-# Campaign Efficiency Tracking: 
+## Campaign Efficiency Tracking: 
 The dashboard will monitor and analyze the impact of each marketing campaign by tracking key metrics such as engagement rates, conversion rates, and ROI for both social media and email marketing efforts. This will help the team easily assess which campaigns are yielding the best results and identify areas for improvement.
 
-# Audience Insights: 
+## Audience Insights: 
 By leveraging data on demographics, behaviors, and preferences, the tool will allow executives to better understand their target audience. Insights such as age groups, gender distribution, and interests will provide a clearer picture of who the marketing efforts are reaching.
 
-# Regional Trends Analysis: 
+## Regional Trends Analysis: 
 To aid in market segmentation and localized strategies, the dashboard will highlight trends by region, enabling the team to tailor campaigns according to regional preferences and emerging trends in different markets.
 
 
