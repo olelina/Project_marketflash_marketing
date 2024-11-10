@@ -17,6 +17,17 @@ By leveraging data on demographics, behaviors, and preferences, the tool will al
 To aid in market segmentation and localized strategies, the dashboard will highlight trends by region, enabling the team to tailor campaigns according to regional preferences and emerging trends in different markets.
 
 
-## Here is a Relationship Diagram (ERD) of a database created in Lucidchart
+## Relationship Diagram (ERD) of a database created in Lucidchart
 
 https://lucid.app/lucidchart/91535b02-2e22-444d-9ab3-304f09a3cb95/edit?viewport_loc=-485%2C-265%2C1792%2C958%2C0_0&invitationId=inv_b6cfe153-ded7-4844-b30c-26f0998a2ddf
+
+## Here is the Google colab link, that takes you where the SQL for the database is stored
+
+https://colab.research.google.com/drive/1CeTrB57zHk2Ffca094_FMSm1Q9rhlb7F?usp=sharing
+
+#### I have also pasted it to a simple Google document so it can be easily copied is needed
+https://docs.google.com/document/d/1SLNQAwo9C2Vg2LOHOK0iWadm3spRd7jEwEkH_eMtv0M/edit?usp=sharing
+
+## Tableau dashboard link
+
+
