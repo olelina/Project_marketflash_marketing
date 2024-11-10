@@ -25,9 +25,9 @@ https://lucid.app/lucidchart/91535b02-2e22-444d-9ab3-304f09a3cb95/edit?viewport_
 
 https://colab.research.google.com/drive/1CeTrB57zHk2Ffca094_FMSm1Q9rhlb7F?usp=sharing
 
-#### I have also pasted it to a simple Google document so it can be easily copied is needed
+#### I have also pasted quesries to a simple Google document so it can be easily copied if needed
 https://docs.google.com/document/d/1SLNQAwo9C2Vg2LOHOK0iWadm3spRd7jEwEkH_eMtv0M/edit?usp=sharing
 
-## Tableau dashboard link
+## Link to the Marketflash dashboard in Tableau
 
 
