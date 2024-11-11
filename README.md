@@ -30,4 +30,7 @@ https://docs.google.com/document/d/1SLNQAwo9C2Vg2LOHOK0iWadm3spRd7jEwEkH_eMtv0M/
 
 ## Link to the Marketflash dashboard in Tableau
 
+https://public.tableau.com/views/MarketingCompanyData_Nov2024/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+
 
