@@ -17,7 +17,7 @@ By leveraging data on demographics, behaviors, and preferences, the tool will al
 To aid in market segmentation and localized strategies, the dashboard will highlight trends by region, enabling the team to tailor campaigns according to regional preferences and emerging trends in different markets.
 
 
-## Relationship Diagram (ERD) of a database created in Lucidchart
+## Entity Relationship Diagram (ERD) of a database created in Lucidchart
 
 https://lucid.app/lucidchart/91535b02-2e22-444d-9ab3-304f09a3cb95/edit?viewport_loc=-485%2C-265%2C1792%2C958%2C0_0&invitationId=inv_b6cfe153-ded7-4844-b30c-26f0998a2ddf
 
